@@ -10,17 +10,16 @@ POS 프로그램을 웹 브라우저에서 동작할 수 있도록 구현했습�
 - MySQL 8
 - GitHub, Source Tree
 ---
-# Member
-## 김예진
+### 김예진
 - Github: https://github.com/eee269
 
-## 박지은
+### 박지은
 - Github: 
 
-## 박진훈
+### 박진훈
 - Github: 
 
-## 서지연
+### 서지연
 - Github: 
 
 ---
