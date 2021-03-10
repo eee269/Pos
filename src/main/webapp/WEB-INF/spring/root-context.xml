@@ -14,9 +14,9 @@
 		<property name="username" value="admin" />
 		<property name="password" value="admin123" /> -->
 		<property name="driverClassName" value="net.sf.log4jdbc.sql.jdbcapi.DriverSpy" />
-		<property name="url" value="jdbc:log4jdbc:mysql://travel.cnxiy8lpar3q.ap-northeast-2.rds.amazonaws.com:3306/travel" />
-		<property name="username" value="admin" />
-		<property name="password" value="admin123" />
+		<property name="url" value="jdbc:log4jdbc:mysql://pos-db.cnxiy8lpar3q.ap-northeast-2.rds.amazonaws.com:3306/POS" />
+		<property name="username" value="eee269" />
+		<property name="password" value="l84265319k" />
 		
 	</bean>
 	
